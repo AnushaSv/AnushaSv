@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anusha Vernekar</h1>
 <p align="center">I am studying Information Science and Engineering🧑‍💻 in KLS GIT College Belgavi</p>
 <h3 align="center">A passionate frontend developer from India</h3>
-<section style="background-color: "black>
+<section style="background-color: "black">
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushasv&label=Profile%20views&color=0e75b6&style=flat" alt="anushasv" /> </p>
