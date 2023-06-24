@@ -1,5 +1,5 @@
 ### Hi there 👋
-<body style="background-color: "#2e3136">
+<body style="background-color: "black">
 <h1 align="center">Hi 👋, I'm Anusha Vernekar</h1>
 <p align="center">I am studying Information Science and Engineering🧑‍💻 in KLS GIT College Belgavi</p>
 <h3 align="center">A passionate frontend developer from India</h3>
